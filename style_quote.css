@@ -1,0 +1,52 @@
+body {
+	background-color: white;
+}
+h1 {
+	font-size: 19px;
+}
+.note {
+	width: 400px;
+	height: auto;
+	margin: 0 auto;
+	margin-top: 100px;
+	color: #513611;
+}
+.note_corner {
+	background: url(images/note_corner.png) top right no-repeat;
+	float: right;
+	width: 77px;
+	height: 88px;
+	z-index: 5;
+}
+.note_top {
+	background: url(images/note_top.gif) top no-repeat;
+	width: 400px;
+	height: 8px;
+	z-index: 1;
+}
+.note_middle {
+	background: url(images/note_middle.gif) repeat-y;
+	width: 350px;
+	height: auto;
+	min-height: 100px; /* must be greater than the height of note-corner */
+	padding: 10px 30px 10px 30px;
+}
+.note_bottom {
+	background: url(images/note_bottom.gif) bottom no-repeat;
+	width: 400px;
+	height: 11px;
+}
+.faded {
+    width: 75px;
+    float: left;
+}
+.nav {
+	color: #E1C470;
+}
+.faded, .nav a {
+    text-decoration: none;
+	color: #B28F26;
+}
+.nav a:hover {
+	color: #555;
+}

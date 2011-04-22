@@ -1,0 +1,1302 @@
+%%
+
+Every dark cloud has a silver lightning, but lightning kills hundres of people each year who are trying to find it.
+
+%%
+
+Those who think they know it all are very annoying to those of us who know we do not.
+
+%%
+
+He who fears being conquered is sure of defeat.
+
+    -- Napoleon Bonaparte
+
+%%
+
+Smoking is one of the leading causes of statistics.
+
+    -- Fletcher Knebel
+
+%%
+
+Only two things are infinite, the universe and human stupidity, and I'm not sure about the former.
+
+    -- Albert Einstein
+
+%%
+
+A real patriot is the fellow who gets a parking ticket and rejoices that the system works.
+
+%%
+
+Black holes are where God divided by zero.
+
+    -- Steven Wright
+
+%%
+
+Birthdays are good for you. Statistics show that people who have the most birthdays live the longest.
+
+    -- Larry Lorenzoni
+
+%%
+
+The only reason for time is so that everything doesn't happen at once.
+
+    -- Albert Einstein
+
+%%
+
+One machine can do the work of fifty ordinary men. No machine can do the work of one extraordinary man.
+
+    -- Elbert Hubbard
+
+%%
+
+The problems of victory are more agreeable than the problems of defeat, but they are no less difficult.
+
+    -- Winston Churchill
+
+%%
+
+The believer is happy. 
+The doubter is wise.
+
+%%
+
+Flying is learning how to throw yourself at the ground and miss.
+
+    -- Douglas Adams
+
+%%
+
+For a moment, nothing happened.Then, after a second or so, nothing continued to happen.
+
+    -- Douglas Adams
+
+%%
+
+I'm spending a year dead for tax reasons.
+
+    -- Douglas Adams
+
+%%
+
+So long and thanks for all the fish.
+
+    -- Douglas Adams
+
+%%
+
+I do not fear computers. I fear lack of them.
+
+    -- Isaac Asimov
+
+%%
+
+Come to think of it, there are already a million monkeys on a million typewriters, and the Usenet is NOTHING like Shakespeare!
+
+    -- Blair Houghton
+
+%%
+
+Sometimes it pays to stay in bed on Monday, rather than spending the rest of the week debuging Monday's code.
+
+    -- Dan Salomon
+
+%%
+
+Why doesn't DOS ever say 'EXCELLENT command or filename!'?
+
+%%
+
+There are two major products that come out of Berkeley: LSD and UNIX. We don't believe this to be a coincidence.
+
+    -- Jeremy S. Anderson
+
+%%
+
+C makes it easy to shoot yourself in the foot. C++ makes it harder, but when you do, it blows away your whole leg.
+
+    -- Bjarne Stroustrup
+
+%%
+
+See, you not only have to be a good coder to create a system like Linux, you have to be a sneaky bastard too ;-)
+
+    -- Linus Torvalds
+
+%%
+
+I doubt, therefore I might be.
+
+%%
+
+I would love to change the world, but they won't give me the source code.
+
+%%
+
+I'm not anti-social; I'm just not user friendly.
+
+%%
+
+Artificial Intelligence is no match for Natural Stupidity.
+
+%%
+
+Software is like sex: It's better when it's free.
+
+%%
+
+Alcohol and calculus don't mix. Never drink and derive.
+
+%%
+
+Never make fun of the geeks, one day they will be your boss.
+
+%%
+
+Who is General Failure and why is he reading my disk?
+
+%%
+
+Fat people are harder to kidnap.
+
+%%
+
+Always do sober what you said you'd do drunk. That will teach you to keep your mouth shut.
+
+    -- Ernest Hemingway
+
+%%
+
+When you say "I wrote a program that crashed Windows", people just stare at you blankly and say 'Hey, I got those with the system, *for free*' 
+
+    -- Linus Torvalds
+
+%%
+
+If you need more than 3 levels of indentation, you're screwed anyway, and should fix your program.
+
+    -- Linus Torvalds
+
+%%
+
+The ratio of people to cake is too big.
+
+%%
+
+When you wish upon a falling star, your dreams can come true. Unless it's really a meteorite hurtling to the earth which will destroy all life. Then you're pretty much hosed no matter what you wish for. Unless it's death by meteor.
+
+%%
+
+Consciousness, n: that annoying time between naps.
+
+%%
+
+We have enough youth, how about a fountain of smart?
+
+%%
+
+All wiyht. Rho sritched mg kegtops awound?
+
+%%
+
+Why do geeks think Halloween and Christmas occur on the same day? Because 31oct = 25dec!
+
+%%
+
+2 * 3 * 3 * 37 : The prime factorization of The Beast
+
+%%
+
+A good programmer is someone who looks both ways before crossing a one-way street. 
+
+    -- Doug Linder
+
+%%
+
+Program, n: device used to convert data into error messages.
+
+%%
+
+As a computer, I find your faith in technology amusing.
+
+%%
+
+Being married to a programmer is like having a cat. You talk to it but you're never really sure if it hears you, much less comprehends what you say.
+
+%%
+
+Computers make very fast, very accurate mistakes.
+
+%%
+
+Hey! It compiles! Ship it!
+
+%%
+
+A day without fusion is like a day without sunshine.
+
+%%
+
+A mathematician is a machine for converting coffee into theorems.
+
+%%
+
+In The Beginning there was nothing, which exploded.
+
+%%
+
+Johnny was a chemist's son,
+But Johnny is no more.
+What Johnny thought was H20
+was H2SO4.
+
+%%
+
+Scientists have shown that the moon is moving away at a tiny yet measurable distance from the earth every year. If you do the math, you can calculate that 85 million years ago the moon was orbiting the earth at a distance of about 35 feet from the earth's surface. This would explain the death of the dinosaurs. The tallest ones, anyway.
+
+%%
+
+Meet Princess Leia: 
+
+@(-_-)@
+
+%%
+
+5 out of 4 people don't understand fractions.
+
+%%
+
+I guess surrealism's not your cup of tuna.
+
+%%
+
+What's the difference between roast beef and pea soup? Anyone can roast beef.
+
+%%
+
+Excuse me, I believe you have my stapler...
+
+%%
+
+Linux vs. Windows is a no-Win situation
+
+%%
+
+Meh.
+
+%%
+
+Computer Science is no more about computers than astronomy is about telescopes.
+
+    -- E. W. Dijkstra
+
+%%
+
+First we thought the PC was a calculator. Then we found out how to turn numbers into letters with ASCII - and we thought it was a typewriter. Then we discovered graphics, and we thought it was a television. With the World Wide Web, we've realized it's a brochure.
+
+    -- Douglas Adams
+
+%%
+
+There are two kinds of programmers: 
+
+1) those who start arrays with one and 
+1) those who start them with zero.
+
+%%
+
+Software gets slower faster than hardware gets faster.
+
+    -- Wirth's law.
+
+%%
+
+Artificial Intelligence: the art of making computers that behave like the ones in movies.
+
+    -- Bill Bulko.
+
+%%
+
+Programmers are tools for converting caffeine into code.
+
+%%
+
+The best thing about a boolean is even if you are wrong, you are only off by a bit.
+
+%%
+
+Program testing can be used to show the presence of bugs, but never to show their absence! 
+
+    -- Edsger W. Dijkstra
+
+%%
+
+Elegance is not a dispensable luxury but a quality that decides between success and failure.
+
+    -- Edsger W. Dijkstra
+
+%%
+
+I mean, if 10 years from now, when you are doing something quick and dirty, you suddenly visualize that I am looking over your shoulders and say to yourself "Dijkstra would not have liked this", well, that would be enough immortality for me.
+
+    -- Edsger W. Dijkstra
+
+%%
+
+If in physics there's something you don't understand, you can always hide behind the uncharted depths of nature. You can always blame God. You didn't make it so complex yourself. But if your program doesn't work, there is no one to hide behind. You cannot hide behind an obstinate nature. If it doesn't work, you've messed up.
+
+    -- Edsger W. Dijkstra
+
+%%
+
+It's a little known fact that the Y1K problem caused the Dark Ages.
+
+%%
+
+There are 10 kinds of people in the world, those that understand ternary, those that don't, and those that confuse it with binary.
+
+%%
+
+Always code as if the person who will be maintaining your program is a violent psychopath that knows where you live. 
+
+    -- Rick Osborne
+
+%%
+
+Commands don't kill programs; programmers kill programs!
+
+%%
+
+Wouldn't it be nice if commmon sense really were common.
+
+%%
+
+Chuck Norris' browser doesn't just accept cookies, it demands them.
+
+%%
+
+Hofstadter's Law: 
+
+It always takes longer than you expect, even when you take into account Hofstadter's Law.
+
+%%
+
+Debugging is twice as hard as writing the code in the first place. Therefore, if you write the code as cleverly as possible, you are, by definition, not smart enough to debug it.
+
+    -- Brian Kernighan
+
+%%
+
+The most exciting phrase to hear in science, the one that heralds new discoveries, is not 'Eureka!' but 'That's funny...'
+
+    -- Isaac Asimov
+
+%%
+
+The difference between theory and practice is smaller in theory than in practice.
+
+%%
+
+The first 90% of the code accounts for the first 90% of the development time. The remaining 10% of the code accounts for the other 90% of the development time.
+
+%%
+
+There are two ways of constructing a software design: One way is to make it so simple that there are obviously no deficiencies, and the other way is to make it so complicated that there are no obvious deficiencies. The first method is far more difficult.
+
+%%
+
+There are only two industries that refer to their customers as users. 
+
+    -- Edward Tufte
+
+%%
+
+Never express yourself more clearly than you are able to think. 
+
+    -- Niels Bohr
+
+%%
+
+Good programmers know what to write. Great ones know what to rewrite.
+
+%%
+
+Plan to throw one away; you will, anyhow. 
+
+    -- Fred Brooks, The Mythical Man-Month (Addison-Wesley, 1975)
+
+%%
+
+If you have the right attitude, interesting problems will find you.
+
+%%
+
+Given enough eyeballs, all bugs are shallow.
+
+    -- Linus's law (coined by Eric S. Raymond in The Cathedral and the Bazaar)
+
+%%
+
+Adding more programmers to a late project makes it later.
+
+    -- Brooks's law
+
+%%
+
+Smart datastructures and dumb code works a lot better than the other way around.
+
+%%
+
+An infinite number of mathematicians walk into a bar. The first one orders a beer. The second orders half a beer. The third, a quarter of a beer. The bartender says "You're all idiots", and pours two beers.
+
+%%
+
+Any given program costs more and takes longer.
+
+%%
+
+There are only 3 numbers of interest to a computer scientist: 1, 0 and infinity 
+
+%%
+
+The idea that I can be presented with a problem, set out to logically solve it with the tools at hand, and wind up with a program that could not be legally used because someone else followed the same logical steps some years ago and filed for a patent on it is horrifying. 
+
+    -- John Carmack
+
+%%
+
+A computer is a stupid machine with the ability to do incredibly smart things, while computer programmers are smart people with the ability to do incredibly stupid things. They are, in short, a perfect match. 
+
+    -- Bill Bryson
+
+%%
+
+Owning a computer without programming is like having a kitchen and using only the microwave oven.
+
+    -- Charles Petzold
+
+%%
+
+Computer science education cannot make anybody an expert programmer any more than studying brushes and pigment can make somebody an expert painter. 
+
+    -- Eric S. Raymond
+
+%%
+
+How does a large software project get to be one year late? One day at a time! 
+
+    -- Frederick P. Brooks
+
+%%
+
+To go fast, do less.
+
+%%
+
+The sooner you start coding a program, the longer it will take.
+
+%%
+
+If you automate a mess, you get an automated mess.
+
+%%
+
+An ounce of prevention is worth a pound of cure.
+
+%%
+
+Problems that go away by themselves, return by themselves.
+
+%%
+
+Think twice, code once.
+
+%%
+
+Never attribute to malice that which can be adequately explained by stupidity. 
+
+    -- Hanlon's razor
+
+%%
+
+Sufficiently advanced cluelessness is indistinguishable from malice. 
+
+    -- Clark's Third Law
+
+%%
+
+Any technology that surpasses 50% penetration will never double again (in any number of months). 
+
+    -- Norvig's Law
+
+%%
+
+All number systems are base 10...
+
+%%
+
+If you plan to throw one away, you will throw away two. 
+
+    -- Craig Zerouni
+
+%%
+
+When one is postulating correlations or causations extant in reality, one should always remember that the human brain is mainly a pattern recognition engine. And it is such a persistent pattern recognition engine that it often perceives patterns where none exist. 
+
+    -- Jeff Walther
+
+%%
+
+The most important single aspect of software development is to be clear about what you are trying to build. 
+
+    -- Bjarne Stroustrup
+
+%%
+
+Any one who considers arithmetical methods of producing random digits is, of course, in a state of sin. For, as has been pointed out several times, there is no such thing as a random number – there are only methods to produce random numbers, and a strict arithmetic procedure of course is not such a method.
+
+    -- John von Neuman, Various Techniques Used in Connection With Random Digits.
+
+%%
+
+Any fool can use a computer. Many do. 
+
+    -- Ted Nelson
+
+%%
+
+Good code is its own best documentation. As you're about to add a comment, ask yourself, 'How can I improve the code so that this comment isn't needed?' Improve the code and then document it to make it even clearer. 
+
+    -- Steve McConnell
+
+%%
+
+Let us change our traditional attitude to the construction of programs. Instead of imagining that our main task is to instruct a computer what to do, let us concentrate rather on explaining to human beings what we want a computer to do. 
+
+    -- Donald Knuth
+
+%%
+
+First, solve the problem. Then, write the code. 
+
+    -- John Johnson
+
+%%
+
+The road to wisdom? 
+Well its plain and simple to express: 
+Err and err and err again, 
+but less and less and less. 
+
+    -- Piet Hein
+
+%%
+
+Any intelligent fool can make things bigger, more complex, and more violent. It takes a touch of genius -- and a lot of courage -- to move in the opposite direction. 
+
+    -- Albert Einstein
+
+%%
+
+Any code of your own that you haven't looked at for six or more months might as well have been written by someone else. 
+
+    -- Eagleson's law
+
+%%
+
+The bearing of a child takes nine months, no matter how many women are assigned. 
+
+    -- Fred Brooks, The Mythical Man-Month
+
+%%
+
+A most important, but also most elusive, aspect of any tool is its influence on the habits of those who train themselves in its use. If the tool is a programming language this influence is, whether we like it or not, an influence on our thinking habits. 
+
+    -- Edsger W. Dijkstra
+
+%%
+
+The cost of adding a feature isn't just the time it takes to code it. The cost also includes the addition of an obstacle to future expansion. [...] The trick is to pick the features that don't fight each other. 
+
+    -- John Carmack
+
+%%
+
+Good judgement comes from experience, and experience comes from bad judgement. 
+
+    -- Fred Brooks
+
+%%
+
+Einstein argued that there must be simplified explanations of nature, because God is not capricious or arbitrary. No such faith comforts the software engineer. 
+
+    -- Fred Brooks
+
+%%
+
+If there's one thing worse than a program that doesn't work when it should, it's a program that does work when it shouldn't.
+
+%%
+
+And the users exclaimed 
+with a laugh and a taunt: 
+"It's just what we asked for 
+but not what we want." 
+
+%%
+
+If you can't be a good example, then you'll just have to be a horrible warning. 
+
+    -- Catherine Aird
+
+%%
+
+Software gets slower faster than hardware gets faster. 
+
+    -- Wirth's law
+
+%%
+
+Java is to JavaScript what Car is to Carpet.
+
+%%
+
+Inside every small program is a large program struggling to get out.
+
+%%
+
+A carelessly planned project takes three times longer to complete than expected; a carefully planned project takes only twice as long.
+
+%%
+
+You can only see as far as you can think.
+
+%%
+
+Show me your flowcharts and conceal your tables, and I shall continue to be mystified. Show me your tables, and I won't usually need your flowcharts; they'll be obvious. 
+
+    -- Frederick. P. Brooks, The Mythical Man-Month
+
+%%
+
+Adjusting to the requirement of perfection is, I think, the most difficult part of learning to program. 
+
+    -- Frederick. P. Brooks, The Mythical Man-Month
+
+%%
+
+There is no single development, in either technology or in management technique, that by itself promises even one order-of-magnitude improvement in productivity, in reliability, in simplicity. 
+
+    -- Frederick P. Brooks, The Mythical Man-Month
+
+%%
+
+Every program attempts to expand until it can read mail. Those programs which cannot so expand are replaced by ones which can. 
+
+    -- Zawinski's Law
+
+%%
+
+1. A robot may not injure a human being or, through inaction, allow a human being to come to harm. 
+
+2. A robot must obey orders given to it by human beings, except where such orders wouldconflict with the First Law. 
+
+3. A robot must protect its own existence as long as such protection does not conflict with the First or Second Law. 
+
+
+    -- Asimov's three laws of robotics
+
+%%
+
+If the only tool you have is a hammer, you treat everything like a nail. 
+
+    -- Abraham Maslow
+
+%%
+
+Work expands so as to fill the time available for its completion. 
+
+    -- Parkinson's Law
+
+%%
+
+A human being should be able to change a diaper, plan an invasion, butcher a hog, conn a ship, design a building, write a sonnet, balance accounts, build a wall, set a bone, comfort the dying, take orders, give orders, cooperate, act alone, solve equations, analyze a new problem, pitch manure, program a computer, cook a tasty meal, fight efficiently, die gallantly. Specialization is for insects. 
+
+    -- Robert A. Heinlein, Time Enough for Love
+
+%%
+
+Entropy isn't what it used to be.
+
+%%
+
+If you receive something that says 'Send this to everyone you know', pretend you don't know me.
+
+%%
+
+if(computer.fail==true){
+background.setColor(blue);
+user.frown();
+sys.shutdown();
+user.scream("OH, FUCK YOU");} 
+
+    -- limerickdb.com
+
+%%
+
+A dying mosquito exclaimed,
+"A chemist has poisoned my brain!"
+The cause of his sorrow
+Was para-dichloro-
+Diphenyl-trichloroethane 
+
+    -- limerickdb.com
+
+%%
+
+A programmer started to cuss
+Because getting to sleep was a fuss
+As he lay there in bed
+Looping 'round in his head
+was: while(!asleep()) sheep++;
+
+    -- limerickdb.com
+
+%%
+
+A Brief (Limerick) History of Gravity
+
+It filled Gallileo with mirth
+To watch his two stones fall to Earth
+"Their rates are the same,"
+He gladly proclaimed,
+"And quite independent of girth!"
+
+Then Newton declared in due course
+His own law of Gravity's force,
+"It goes, I declare,
+As the inverted square
+Of the distance from object to source."
+
+Next Einstein revealed his equation
+Which succeeds to describe gravitation
+As spacetime that's curved
+And it's this that will serve
+As the planets' unique motivation.
+
+But the end of the story's not written,
+By a new way of thinking we're smitten.
+We twist and we turn
+Attempting to learn
+The Superstring Theory of Witten.
+
+    -- limerickdb.com
+
+%%
+
+The integral of zee-squared dee zee,
+From 1 to the cube root of 3,
+Times the cosine,
+Of 3 pi over 9,
+Is the log of the cube root of e. 
+
+    -- limerickdb.com
+
+%%
+
+No matter what the problem is, it's a people problem.
+
+    -- Jerry Weinberg
+
+%%
+
+Any person can invent a security system so clever that she or he can't think of how to break it.
+
+    -- Schneier's Law
+
+%%
+
+The number of transistors that can be inexpensively placed on an integrated circuit doubles roughly every two years.
+
+    -- Moore's Law
+
+%%
+
+A cryptosystem should be secure even if everything about the system, except the key, is public knowledge.
+
+    -- Kerckhoffs' Principle
+
+%%
+
+A complex system that works is invariably found to have derived from a simple system that worked.
+
+    -- Gall's Law
+
+%%
+
+We are just an advanced breed of monkeys on a minor planet of a very average star. But we can understand the Universe. That makes us something very special.
+
+    -- Stephen Hawking
+
+%%
+
+The man-month is a fallacious and dangerous myth, for it implies that men and months are interchangeable.
+
+    -- Frederick P. Brooks, The Mythical Man-Month
+
+%%
+
+Programmer reluctance to document designs comes not so much from laziness as from hesitancy to undertake defence of decisions that the designer knows are tentative.
+
+    -- John Cosgrove
+
+%%
+
+The computing scientist's main challenge is not to get confused by the complexities of his own making.
+
+    -- E. W. Dijkstra
+
+%%
+
+Beauty is more important in computing than anywhere else in technology because software is so complicated. Beauty is the ultimate defence against complexity.
+
+    -- David Gelernter
+
+%%
+
+The Eight Fallacies of Distributed Computing:
+
+Essentially everyone, when they first build a distributed application, makes the following eight assumptions. All prove to be false in the long run and all cause big trouble and painful learning experiences.
+
+1. The network is reliable
+2. Latency is zero
+3. Bandwidth is infinite
+4. The network is secure
+5. Topology doesn't change
+6. There is one administrator
+7. Transport cost is zero
+8. The network is homogeneous
+
+
+    -- Peter Deutsch
+
+%%
+
+Are you quite sure that all those bells and whistles, all those wonderful facilities of your so called powerful programming languages, belong to the solution set rather than the problem set?
+
+    -- Edsger W. Dijkstra
+
+%%
+
+mathematician, n.: Some one who believes imaginary things appear right before your i's.
+
+%%
+
+It seems to me, that the advance of civilization is nothing but an exercise in the limiting of privacy.
+
+    -- Isaac Asimov, Foundation's Edge
+
+%%
+
+Q: How many prolog programmers does it take to change a lightbulb?
+A: Yes.
+
+%%
+
+The generation of random numbers is too important to be left to chance.
+
+    -- Robert R. Coveyou
+
+%%
+
+Procedural code gets information then makes decisions. Object-oriented code tells objects to do things.
+
+    -- Alec Sharp
+
+%%
+
+Resistance is futile.
+
+%%
+
+Don't panic!
+
+%%
+
+It's a trap!
+
+%%
+
+[A]bort, [R]etry, [I]gnore
+
+%%
+
+Klaatu barada nikto!
+
+%%
+
+Han shot first!
+
+%%
+
+Does not compute.
+
+%%
+
+I'm sorry, Dave. I'm afraid I can't do that.
+
+%%
+
+Beam me up, Scotty!
+
+%%
+
+Who are all your base belong to again?
+
+%%
+
+So say we all!
+
+%%
+
+Whiskey Tango Foxtrot?!
+
+%%
+
+That's no moon...
+
+%%
+
+Nom nom nom
+
+%%
+
+A: What's the integral of 1/cabin?
+B: A natural log cabin.
+A: No, a houseboat – you forgot to add the c! 
+
+%%
+
+An astronomer, a physicist and a mathematician are on a train in Scotland. The astronomer looks out of the window, sees a black sheep standing in a field, and remarks, "How odd. Scottish sheep are black." "No, no, no!" says the physicist. "Only some Scottish sheep are black." The mathematician rolls his eyes at his companions' muddled thinking and says, "In Scotland, there is at least one sheep, at least one side of which looks black." 
+
+%%
+
+A physicist, a biologist and a mathematician are sitting in a street café watching people entering and leaving the house on the other side of the street. First they see two people entering the house. Time passes. After a while they notice three people leaving the house. The physicist says, "The measurement wasn't accurate." The biologist says, "They must have reproduced." The mathematician says, "If one more person enters the house then it will be empty."
+
+%%
+
+A dozen, a gross, and a score
+Plus three times the square root of four
+Divided by seven
+Plus five times eleven
+Is nine squared and not a bit more.
+
+    -- limerickdb.com
+
+%%
+
+He that breaks a thing to find out what it is has left the path of wisdom.
+
+    -- J.R.R. Tolkien
+
+%%
+
+A hypothetical paradox:
+
+What would happen in a battle between an Enterprise security team, who always get killed soon after appearing, and a squad of Imperial Stormtroopers, who can't hit the broad side of a planet?
+
+    -- Tom Galloway
+
+%%
+
+Prediction is very difficult, especially of the future.
+
+    -- Niels Bohr
+
+%%
+
+How can you prove whether at this moment we are sleeping, and all our thoughts are a dream; or whether we are awake, and talking to one another in the waking state?
+
+    -- Plato
+
+%%
+
+The difference between art and science is that science is what we understand well enough to explain to a computer.  Art is everything else.
+
+    -- Donald Knuth, "Discover"
+
+
+%%
+
+Perfection is reached, not when there is no longer anything to add, but when there is no longer anything to take away.
+
+    -- Antoine de Saint-Exupery
+
+%%
+
+Artificial intelligence has the same relation to intelligence as artificial flowers have to flowers.
+
+    -- David Parnas
+
+
+%%
+
+Experience is not what happens to you; it is what you do with what happens to you.
+
+    -- Aldous Huxley
+
+
+%%
+
+Anyone can become angry -- that is easy; but to be angry with the right person, to the right degree, at the right time, for the right purpose and in the right way -- that is not easy.
+
+    -- Aristotle
+
+%%
+
+A method of solution is perfect if we can forsee from the start, and even prove, that following that method we shall attain our aim.
+
+    -- Leibnitz
+
+%%
+
+I love Saturday morning cartoons, what classic humour!  This is what entertainment is all about ... Idiots, explosives and falling anvils.
+
+    -- Calvin and Hobbes, Bill Watterson
+
+%%
+
+No extensible language will be universal.
+
+    -- T. Cheatham
+
+%%
+
+Let a computer smear — with the right kind of quantum randomness — and you create, in effect, a ‘parallel’ machine with an astronomical number of processors [...] All you have to do is be sure that when you collapse the system, you choose the version that happened to find the needle in the mathematical haystack.
+
+    -- From Quarantine by Greg Egan
+
+
+%%
+
+What makes the universe so hard to comprehend is that there's nothing to compare it with.
+
+%%
+
+A gangster assembled an engineer, a chemist, and a physicist.  He explained that he was entering a horse in a race the following week and the three assembled guys had the job of assuring that the gangster's horse would win. They were to reconvene the day before the race to tell the gangster how they each propose to ensure a win.  When they reconvened the gangster started with the engineer:
+	
+Gangster: OK, Mr. engineer, what have you got?
+
+Engineer: Well, I've invented a way to weave metallic threads into the saddle
+	  blanket so that they will act as the plates of a battery and provide
+	  electrical shock to the horse.
+
+G:	  That's very good!  But let's hear from the chemist.
+
+Chemist:  I've synthesized a powerful stimulant that disolves
+	  into simple blood sugars after ten minutes and therefore
+	  cannot be detected in post-race tests.
+
+G:	  Excellent, excellent!  But I want to hear from the physicist before
+	  I decide what to do.  Physicist?
+
+Physicist: Well, first consider a spherical horse in simple harmonic motion...
+
+%%
+
+Premature optimization is the root of all evil.
+
+    -- D. E. Knuth
+
+%%
+
+Criminal activity in Gotham is prohibited during the day.
+
+%%
+
+Magic is always the best solution -- especially reliable magic.
+
+%%
+
+Hoare's Law of Large Problems:
+	Inside every large problem is a small problem struggling to get out.
+
+%%
+
+If God hadn't wanted you to be paranoid, He wouldn't have given you such
+a vivid imagination.
+
+%%
+
+	better !pout !cry
+	better watchout
+	lpr why
+	santa claus < north pole > town
+
+	cat /etc/passwd > list
+	ncheck list
+	ncheck list
+	cat list | grep naughty > nogiftlist
+	cat list | grep nice > giftlist
+	santa claus < north pole > town
+
+	who | grep sleeping
+	who | grep awake
+	who | grep bad || good
+	for (goodness sake) {
+		be good
+	}
+
+%%
+
+All programmers are optimists.  Perhaps this modern sorcery especially attracts those who believe in happy endings and fairy godmothers.  Perhaps the hundreds
+of nitty frustrations drive away all but those who habitually focus on the end goal.  Perhaps it is merely that computers are young, programmers are younger,
+and the young are always optimists.  But however the selection process works, the result is indisputable:  "This time it will surely run," or "I just found
+the last bug." 
+
+    -- Frederick Brooks, "The Mythical Man Month"
+
+
+%%
+
+There is a theory which states that if ever anyone discovers exactly what the Universe is for and why it is here, it will instantly disappear and be replaced by something even more bizarre and inexplicable. There is another theory which states that this has already happened.
+
+    -- Douglas Adams, "The Hitchhiker's Guide to the Galaxy"
+
+%%
+
+After a number of decimal places, nobody gives a damn.
+
+%%
+
+So we are stuck with a theory, and we do not know whether it is right or wrong, but we do know that it is a little wrong, or at least incomplete.
+
+    -- Richard Feynman, on the Standard Model
+
+%%
+
+Cache:
+	A very expensive part of the memory system of a computer that no one is supposed to know is there.
+
+%%
+
+Be like a duck. Remain calm on the surface and paddle like hell underneath.
+
+    -- Michael Caine
+
+%%
+
+I hold it true, whate'er befall;
+I feel it, when I sorrow most;
+'Tis better to have loved and lost
+Than never to have loved at all.
+
+    -- Alfred Lord Tennyson, In Memoriam:27
+
+%%
+
+Today's AI is about new ways of connecting people to computers, people to knowledge, people to the physical world, and people to people. 
+
+    -- Patrick Winston, MIT AI Lab, 1997 
+    
+%%
+
+AI is not the science of building artificial people. It's not the science of understanding human intelligence. It's not even the science of trying to build artifacts that can imitate human behavior well enough to fool someone that the machine is human, as proposed in the famous Turing test […] AI is the science of making machines do tasks that humans can do or try to do […] you could argue […] that much of computer science and engineering is included in this definition…that's probably right […] (but) the field (of AI) focuses on the more complex things that people do.
+
+    -- James F. Allen, Professor of Computer Science, University of Rochester, from "AI Growing Up," AI Magazine, Winter 1998
+
+%%
+
+There is a popular cliche...which says that you cannot get out of computers any more than you have put in..., that computers can only do exactly what you tell them to, and that therefore computers are never creative. This cliché is true only in a crashingly trivial sense, the same sense in which Shakespeare never wrote anything except what his first schoolteacher taught him to write — words. 
+
+    -- Richard Dawkins, "The Blind Watchmaker"  quoted by Stan Franklin in "Artificial Minds," 1997 
+    
+%%
+
+Minds choose what to do next.
+
+    -- Stan Franklin, "Artificial Minds," 1997 
+    
+%%
+
+Artificial intelligence is the study of how to make real computers act like the ones in the movies.
+
+%%
+
+Pattern recognition and association make up the core of our thought. These activities involve millions of operations carried out in parallel, outside the field of our consciousness. If AI appeared to hit a brick wall after a few quick victories, it did so owing to its inability to emulate these processes.
+
+    -- Daniel Crevier, "The Tumultuous History of the Search for Artificial Intelligence," p5, 1993.
+    
+%%
+
+Intelligence is what you use when you don't know what to do.
+
+    -- Jean Piaget
+    
+%% 
+
+Our everyday reasoning is not precise, but it is nevertheless efficient. Nature, itself, from galaxies to genes, is approximate and inexact. Philosophical concepts are among the least precise. Terms such as 'mind,' 'perception,' 'memory,' and 'knowledge' do not have either a fixed nor a clear meaning but they make sense just the same.
+
+    -- Gian-Carlo Rota, mathematician quoted by Arturo Sangalli, "The Importance of Being Fuzzy and Other Insights from the Border between Math and Computers"
+
+%%
+
+A good science fiction story should be able to predict not the automobile but the traffic jam. 
+
+    -- Pohl, Fred, Taken from the book Close Encounters? Science and Science Fiction, by Robert Lambourne, Michael Shallis and Michael Shortland, 1990. Bristol and New York: Adam Hilger. Pollack, Martha
+    
+%%
+
+there are things we know that we know. There are known unknowns; that is to say, there are things that we now know we don’t know. But there are also unknown unknowns; there are things we do not know we don’t know.
+
+    -- United States Secretary of Defense Donald Rumsfeld
+    
+%%
+
+Work smart, not hard; work hard too.
+
+%%
+
+Confidence, n.: The feeling you have before you understand the situation.
+
+%%
+
+Do not meddle in the affairs of wizards, for they are subtle and quick to anger.
+
+    --J. R. R. Tolkien
+
+%%
+
+Walking on water and developing software from a specification are easy if both are frozen.
+
+    -- Edward V. Berard
+    
+%%
+
+C is quirky, flawed, and an enormous success.
+
+    -- Dennis M. Ritchie
+
+%%
+
+Perl – The only language that looks the same before and after RSA encryption.
+
+    -- Keith Bostic
+
+%%
+
+I don't care if it works on your machine! We are not shipping your machine!
+
+    -- Vidiu Platon
+
+%%
+
+Human suffering has been created because too many of us cannot grasp that words are only tools for our use, and that the mere presence in the dictionary of a word like "living" does not mean it necessarily has to refer to something definite in the real world.
+
+    -- Richard Dawkins, The Selfish Gene, page 18
+    
+%%
