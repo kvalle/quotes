@@ -1251,7 +1251,7 @@ A good science fiction story should be able to predict not the automobile but th
     
 %%
 
-there are things we know that we know. There are known unknowns; that is to say, there are things that we now know we don’t know. But there are also unknown unknowns; there are things we do not know we don’t know.
+There are things we know that we know. There are known unknowns; that is to say, there are things that we now know we don’t know. But there are also unknown unknowns; there are things we do not know we don’t know.
 
     -- United States Secretary of Defense Donald Rumsfeld
     
@@ -1297,6 +1297,6 @@ I don't care if it works on your machine! We are not shipping your machine!
 
 Human suffering has been created because too many of us cannot grasp that words are only tools for our use, and that the mere presence in the dictionary of a word like "living" does not mean it necessarily has to refer to something definite in the real world.
 
-    -- Richard Dawkins, The Selfish Gene, page 18
+    -- Richard Dawkins, The Selfish Gene, p.18
     
 %%

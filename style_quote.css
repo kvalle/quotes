@@ -4,6 +4,10 @@ body {
 h1 {
 	font-size: 19px;
 }
+.note div#attribution {
+    color:red;
+    border: 2px red;
+}
 .note {
 	width: 400px;
 	height: auto;
@@ -42,6 +46,9 @@ h1 {
 }
 .nav {
 	color: #E1C470;
+}
+.nav2 {
+	color: #B28F26;
 }
 .faded, .nav a {
     text-decoration: none;

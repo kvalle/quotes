@@ -62,11 +62,20 @@
                 if ($sel<$count) echo '</a> ';
 
                 echo '</span><br/>';
-
+    
+                $has_attribution = False;
                 for ($i=$index[$sel]+1; $i<$index[$sel+1]; $i++) {
-                    // echo quote
-                    echo $file[$i]."<br/>";
+                    $line = $file[$i];
+                    if (preg_match('/^    --/',$line)) { 
+                        echo '<span class="nav2">';
+                        $has_attribution = True;
+                    }
+                    echo $line."<br/>";
                 }
+                if ($has_attribution) {
+                    echo '</span>';
+                }
+                
             ?>
             <br/><br/>
     </div> <!-- note-middle ends -->
